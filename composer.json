@@ -1,0 +1,21 @@
+{
+  "name": "tkeer/date-cast",
+  "description": "A laravel package to easily play with date formats",
+  "keywords": ["laravel", "date", "formats", "date-formats", "date-format"],
+  "authors": [
+    {
+      "name": "taukeer",
+      "email": "taukeer.liaqat@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "laravel/framework": ">=5.0",
+    "nesbot/carbon": ">=1.20"
+  },
+  "autoload": {
+    "psr-4": {
+      "DateCast\\": "src/"
+    }
+  }
+}
