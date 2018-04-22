@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App;
+namespace DateCast;
 
 use Carbon\Carbon;
 
