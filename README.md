@@ -40,3 +40,6 @@ you can use ``$dates_cast_from_formats`` property.
     ];
 
 ```
+
+## Installation
+``composer require tkeer/date-cast 1.*``
